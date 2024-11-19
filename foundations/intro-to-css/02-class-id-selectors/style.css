@@ -1,0 +1,20 @@
+.odd-num {
+    font-family: "Verdana, 'Dejavu Sans', sans-serif";
+    background-color: salmon;
+    
+}
+
+#second {
+    color: rgba(28, 28, 160, 2);
+    font-size: 36px;
+}
+
+.third-el, #fourth {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(16, 193, 16);
+    font-weight: 600;
+
+}
