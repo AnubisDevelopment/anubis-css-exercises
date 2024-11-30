@@ -5,12 +5,35 @@ body {
 img {
   width: 100px;
   height: 100px;
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
 }
+
+.plant-container {
+  margin: 20px 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title-container {
+  display: flex;
+  justify-content: center;
+}
+
+.list-container {
+  display: flex;
+}
+.text {
+  padding: 0;
+  text-align: center;
+}
+
+
 
 /* do not edit this footer */
 .footer {
